@@ -1,3 +1,5 @@
+//Link = https://www.hackerrank.com/challenges/an-interesting-game-1/problem
+
 let arr1 =  [1, 3, 5, 7, 9];
 let arr2 = [7, 4, 6, 5, 9];
 
